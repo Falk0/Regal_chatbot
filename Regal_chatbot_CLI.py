@@ -4,7 +4,7 @@ PROMPT_END_SEPARATOR = "\n\n###\n\n"
 COMPLETION_END_SEPARATOR = " END"
 
 
-model_name = "davinci:ft-personal-2023-06-18-21-08-08"
+model_name = "model name"
 
 def get_completion(prompt):
     # Make the completion request
