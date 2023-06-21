@@ -1,0 +1,11 @@
+Sensor,Supply Voltage,Output,Accuracy,Repeatability,Resolution,Electrical Angle or Stroke,Operating Temperature,
+ACW4, 5 VDC 11-30 VDC or 15 to 30 VDC 0-10 V or 0.5-4.5 V, Analog 4-20 mA or Ratiometric 10-90% of Vcc or PWM 1 kHz 10-90 %, + 0.1 mm (30...250 mm) + 0.3% on 360°, + 0.1% on 360°, Single turn 12 bit, 360°, -40°C...+85°C (-40°C...+125°C option),
+GYPS, 8-36 VDC, 0.25-4.75 VDC or 0.5-4.5 VDC or 0-10 VDC and the reverse equivalent. or 4-20 mA and 20-4 mA or PWM 1 kHz 5V 95-5% or 5-95 %, <+0.1 mm (30...250 mm) or + 0.04 9 % FS (251...2000mm) or + 0.8 mm (2001...2400mm), +0.06 mm, 0.06 mm, 30...2400 mm, -20°C...+85°C,
+GYPD , 8-36 VDC, 8-36 VDC or 0.25-4.75 VDC or 0.5-4.5 VDC or PWM 1 kHz 5V 95-5% or 5-95 % or 4-20 mA and 20-4 mA, + 0.1 mm (30...250 mm) + 0.04 % FS (251...1000mm), +0.06 mm, 0.06 mm, 30...1000 mm, -20°C...+85°C,
+GYKS2, 24 VDC +2, 0-10 VDC or 10-0 VDC or 4-20 mA or 20-4 mA, 0.025% FS TYP, <0.01% FS, <0.01%1 FS, Rod both end joint type (RW88): 15-500 mm Sliding & floating magnet: 15...2500 mm, 0°C...+65°C,
+KTP-KTC-KTF, < 40 VDC or 15-36 VDC, Potentiometer or 4-20 mA, < 400 mm: <0.07 % FS > 400 mm: <0.05 % FS, <0.01 mm, Near infinite, 75-1000 mm, Potentiometer: -55°C. ..+125°C 4-20 mA: -40°C...+85°C,
+PS6300, Recommended 10 VDC Max 40 VDC, Potentiometer, +0.4 mm, <+0.013 mm, Near infinite, 50 - 1000 mm,-40°C...+125°C,
+GY-mini, 24 VDC +2, Voltage output 0-10 V or Current output 4-20 mA, < +0.05% FS, < +0.01% FS, < 560 mm ~56 um > 560 mm 0.01% FS, 50 - 2000 mm, Sensor -20°C...+80°C Operating controller 0°C...+60°C,
+RCL, 9-30 VDC, Voltage output 0-5V Current output 4 20 mA,  +0.3% max +0.5%, , , 50 - 1500 mm, Sensor rod -40°C...+155°C Electronics 25°C...+85°C,
+PS6500, Recommended 10 VDC Max 36 VDC, Potentiometer, < +2.0%, <+0.02%, Near infinite, 50-1000 mm, -40°C...+125°C,
+
